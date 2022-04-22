@@ -1,7 +1,8 @@
 # EDA-coursera
 Exploratory Data Analysis with Seaborn 
 
-Tasks
+Tasks:
+
 Task 1: Introduction and Importing the Data
 
 Task 2: Separate Target from Features
